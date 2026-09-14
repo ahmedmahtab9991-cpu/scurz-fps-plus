@@ -1,0 +1,8 @@
+src/**/*.astro linguist-detectable
+public/* linguist-vendored
+*.yaml linguist-detectable=false
+build/* linguist-vendored
+*.svg text
+
+*.md linguist-documentation
+src/*.astro linguist-detectable
